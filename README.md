@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/coderstop244/Leetcode/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/coderstop244/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/coderstop244/Leetcode/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coderstop244/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -38,6 +39,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/coderstop244/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coderstop244/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/coderstop244/Leetcode/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/coderstop244/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
