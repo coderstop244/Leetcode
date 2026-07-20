@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coderstop244/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/coderstop244/Leetcode/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/coderstop244/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/coderstop244/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/coderstop244/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coderstop244/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/coderstop244/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/coderstop244/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/coderstop244/Leetcode/tree/master/0075-sort-colors) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/coderstop244/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Stack
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/coderstop244/Leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/coderstop244/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/coderstop244/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/coderstop244/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Monotonic Stack
 |  |
 | ------- |
