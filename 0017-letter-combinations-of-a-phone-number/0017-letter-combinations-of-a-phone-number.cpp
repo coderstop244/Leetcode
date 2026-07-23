@@ -11,9 +11,11 @@ void solve(string &digits,int index,vector<string> &ans,string &output,string ma
     string value = mapping[number];
 
     for(int i=0;i<value.length();i++){
+
         output.push_back(value[i]);
-        solve(digits,index+1,ans,output,mapping);
-        output.pop_back();
+        solve(digits,index+1,ans,output,mapping); //recurssion
+        
+        output.pop_back(); //backtrack
     }
 }
 public:
